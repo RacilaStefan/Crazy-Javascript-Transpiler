@@ -1,7 +1,7 @@
 {
   "name": "sarmi-pavaje",
   "version": "1.0.0",
-  "description": "",
+  "description": ""
   "scripts": {
     "start": "node compiler.js"
   },
